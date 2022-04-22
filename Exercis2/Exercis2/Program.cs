@@ -6,11 +6,26 @@ namespace Exercis2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
 
-            var name = Console.ReadLine();
 
-            var result = Add(10, 20);
+            Console.WriteLine("Hello what is your name?");
+
+            //var name = Console.ReadLine();
+
+            Console.WriteLine("give me two numbers plase");
+            string num11 = Console.ReadLine();
+            String num22 = Console.ReadLine();
+
+
+            int num1 = Convert.ToInt32(num11);
+            int num2 = Convert.ToInt32(num22);
+
+            Console.WriteLine(Add(num1 , num2));
+            Console.WriteLine(Multiply(num1, num2));
+
+
+
 
         }
 
@@ -19,6 +34,7 @@ namespace Exercis2
 
         {
             var sum = num1 + num2;
+            Console.WriteLine(sum);
             return sum;
 
 
@@ -28,6 +44,7 @@ namespace Exercis2
 
         {
             var times = num1 * num2;
+            Console.WriteLine(times);   
             return times;
 
         }
