@@ -1,0 +1,16 @@
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\bin\Debug\net5.0\Exercis2.exe
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\bin\Debug\net5.0\Exercis2.deps.json
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\bin\Debug\net5.0\Exercis2.runtimeconfig.json
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\bin\Debug\net5.0\Exercis2.runtimeconfig.dev.json
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\bin\Debug\net5.0\Exercis2.dll
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\bin\Debug\net5.0\Exercis2.pdb
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\obj\Debug\net5.0\Exercis2.csproj.AssemblyReference.cache
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\obj\Debug\net5.0\Exercis2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\obj\Debug\net5.0\Exercis2.AssemblyInfoInputs.cache
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\obj\Debug\net5.0\Exercis2.AssemblyInfo.cs
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\obj\Debug\net5.0\Exercis2.csproj.CoreCompileInputs.cache
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\obj\Debug\net5.0\Exercis2.dll
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\obj\Debug\net5.0\refint\Exercis2.dll
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\obj\Debug\net5.0\Exercis2.pdb
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\obj\Debug\net5.0\Exercis2.genruntimeconfig.cache
+C:\Users\chant\repo\Methods1\Exercis2\Exercis2\obj\Debug\net5.0\ref\Exercis2.dll
