@@ -1,0 +1,16 @@
+C:\Users\chant\repo\Methods!\Methods!\bin\Debug\net5.0\Methods!.exe
+C:\Users\chant\repo\Methods!\Methods!\bin\Debug\net5.0\Methods!.deps.json
+C:\Users\chant\repo\Methods!\Methods!\bin\Debug\net5.0\Methods!.runtimeconfig.json
+C:\Users\chant\repo\Methods!\Methods!\bin\Debug\net5.0\Methods!.runtimeconfig.dev.json
+C:\Users\chant\repo\Methods!\Methods!\bin\Debug\net5.0\Methods!.dll
+C:\Users\chant\repo\Methods!\Methods!\bin\Debug\net5.0\Methods!.pdb
+C:\Users\chant\repo\Methods!\Methods!\obj\Debug\net5.0\Methods!.csproj.AssemblyReference.cache
+C:\Users\chant\repo\Methods!\Methods!\obj\Debug\net5.0\Methods!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chant\repo\Methods!\Methods!\obj\Debug\net5.0\Methods!.AssemblyInfoInputs.cache
+C:\Users\chant\repo\Methods!\Methods!\obj\Debug\net5.0\Methods!.AssemblyInfo.cs
+C:\Users\chant\repo\Methods!\Methods!\obj\Debug\net5.0\Methods!.csproj.CoreCompileInputs.cache
+C:\Users\chant\repo\Methods!\Methods!\obj\Debug\net5.0\Methods!.dll
+C:\Users\chant\repo\Methods!\Methods!\obj\Debug\net5.0\refint\Methods!.dll
+C:\Users\chant\repo\Methods!\Methods!\obj\Debug\net5.0\Methods!.pdb
+C:\Users\chant\repo\Methods!\Methods!\obj\Debug\net5.0\Methods!.genruntimeconfig.cache
+C:\Users\chant\repo\Methods!\Methods!\obj\Debug\net5.0\ref\Methods!.dll
